@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Ben",
+    "edad": "5 años",
+    "tipo": "perro",
+    "color": "azul",
+    "enfermedad": "Glaucomas"
+  },
+  {
+    "nombre": "Moka",
+    "edad": "15 años",
+    "tipo": "perrita",
+    "color": "cafe",
+    "enfermedad": "Espasmos"
+  },
+  {
+    "nombre": "Benito",
+    "edad": "2 años",
+    "tipo": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  }
+]
