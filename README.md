@@ -12,6 +12,7 @@ Este proyecto es una pequeña aplicación backend desarrollada en Node.js que pe
 
    - en tu consola escribe:
    git clone https://github.com/C0smar/Desafio1_node.git
+   - o descarga la carpeta y luego la abres en tu Visual studio
 
 2. Navega al directorio del proyecto:
   - en tu consola escribe:
@@ -23,6 +24,7 @@ Este proyecto es una pequeña aplicación backend desarrollada en Node.js que pe
 Uso
 La aplicación se ejecuta desde la línea de comandos y permite dos operaciones principales: registrar y leer.
 
+Registro
 Registrar una nueva cita
 Para registrar una nueva cita, utiliza el siguiente comando:
 
@@ -30,6 +32,7 @@ en tu consola (en este caso de Visual studio code ) :
 
 node index.js registrar <nombre> <edad> <tipo> <color> <enfermedad>
 
+Donde :
 <nombre>: Nombre del animal.
 <edad>: Edad del animal.
 <tipo>: Tipo de animal.
@@ -41,6 +44,7 @@ Ejemplo:
 en tu consola (en este caso de Visual studio code ):
 node index.js registrar Benito "2 años" perro blanco vómitos
 
+Lectura
 Para leer todas las citas registradas, utiliza el siguiente comando:
 
 Escribe en la consola:
