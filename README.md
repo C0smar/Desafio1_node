@@ -11,7 +11,7 @@ Este proyecto es una pequeña aplicación backend desarrollada en Node.js que pe
 1. Clona este repositorio en tu máquina local:
 
    - en tu consola escribe:
-   git clone https://github.com/tu-usuario/veterinaria-js.git
+   git clone https://github.com/C0smar/Desafio1_node.git
 
 2. Navega al directorio del proyecto:
   - en tu consola escribe:
